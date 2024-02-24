@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "451159796633",
+    "project_id": "hackathon-f43c7",
+    "storage_bucket": "hackathon-f43c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451159796633:android:2154b76caf8c3dfcfcc108",
+        "android_client_info": {
+          "package_name": "com.samrudhasolutions.virtualtutoringplatform"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi5nRoMMJIMsqS6ln2SSerPNct0spBMqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

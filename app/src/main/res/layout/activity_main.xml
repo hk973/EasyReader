@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+        android:background="@drawable/app_background"
+    tools:context=".MainActivity">
+
+    <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+        <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+            <ImageView
+                    android:id="@+id/imageView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                     android:padding="15dp"
+                    android:adjustViewBounds="true"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/gallary_icon" />
+
+
+            <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                <Button
+                        android:id="@+id/buttonSend"
+                        android:layout_width="216dp"
+                        android:layout_height="wrap_content"
+                        android:background="@color/white"
+                        android:backgroundTint="@color/white"
+                        android:layout_marginRight="10dp"
+                        android:text="Conclude in 20 words"
+                        android:layout_marginLeft="10dp" />
+                <Button
+                        android:id="@+id/buttonSen"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@color/white"
+                        android:backgroundTint="@color/white"
+                        android:text="Important points"
+                        android:layout_marginRight="10dp"/>
+            </LinearLayout>
+
+            <TextView
+                    android:id="@+id/textView"
+                    android:paddingBottom="200dp"
+                    android:paddingTop="20dp"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:layout_margin="20dp"
+
+                    android:inputType="none"
+                    android:textIsSelectable="true"
+                    android:textColor="#000000"
+                    android:background="@drawable/app_background"
+                    style="@android:style/Widget.TextView.SpinnerItem" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>
