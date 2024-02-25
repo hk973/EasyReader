@@ -9,6 +9,9 @@ This application is designed to convert the text in any image into concise point
 
 
 ##Screenshot
+
+
+
 ![d5975a72-4fba-433e-8bee-b4016fd6bd16](https://github.com/hk973/EasyReader/assets/70455169/b9455743-f110-4818-86a9-2a7617dd2e1f)
 ![0fe12595-c1c2-4b7a-b434-90de6275bc58](https://github.com/hk973/EasyReader/assets/70455169/742c5ec0-770f-4d75-bce5-d7c915bf9d07)
 
