@@ -47,6 +47,7 @@ https://www.youtube.com/watch?v=ahcDWX6QcRA
 ##Apk Download
 
 https://fastupload.io/en/ZpIigu3awq6eJQ5/file
+               or
 https://www.dropbox.com/scl/fi/k567zg7v9yfkalsm9mhjr/app-debug.apk?rlkey=h7rjva6b9v9qgz3f94yv7napf&e=1&dl=0
 
 ## dependencies
