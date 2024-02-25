@@ -27,11 +27,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ##video demo
 
-
+https://www.youtube.com/watch?v=ahcDWX6QcRA
 
 ##Apk Download
 
-
+https://drive.google.com/file/u/0/d/1-InOnlXcOUCC6uJboEDbL7aTkWKwZi0q/view?usp=drivesdk&pli=1
 
 ## dependencies
      implementation("androidx.core:core-ktx:1.12.0")
